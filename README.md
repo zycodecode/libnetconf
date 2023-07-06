@@ -1,4 +1,4 @@
-## libnetconf – The NETCONF protocol library
+libnetconf – The NETCONF protocol library
 
 [![Project Stats](https://www.openhub.net/p/libnetconf/widgets/project_thin_badge.gif)](https://www.openhub.net/p/libnetconf)
 
